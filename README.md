@@ -10,6 +10,6 @@ Bootstrap
 • QR scanner: To scan and show book page
 
 # installation
-npm install
-npm start
-npm install qrcode.react
+1: npm install
+2: npm start
+3: npm install qrcode.react
