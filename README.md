@@ -13,7 +13,3 @@ Bootstrap
 npm install
 npm start
 npm install qrcode.react
-
-# Credit
-Nitin Singh
-https://www.linkedin.com/in/nitinsxngh/
