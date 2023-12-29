@@ -1,0 +1,58 @@
+.app-container {
+  font-family: Arial, sans-serif;
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+.form-container {
+  margin-bottom: 20px;
+}
+
+.form-label {
+  font-weight: bold;
+  padding: 10px;
+}
+
+.search-input {
+  margin-bottom: 10px;
+}
+
+.crud-table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 10px;
+}
+
+.crud-table th,
+.crud-table td {
+  border: 1px solid #ddd;
+  padding: 8px;
+  text-align: left;
+}
+
+.crud-table th {
+  background-color: #1c1c1c;
+}
+
+.btn {
+  padding: 8px 12px;
+  cursor: pointer;
+  margin-right: 5px;
+}
+
+.save-btn {
+  background-color: #4caf50;
+  color: white;
+  border: none;
+}
+
+.del-btn {
+  background-color: #f44336;
+  color: white;
+  border: none;
+}
+
+.hidden {
+  display: none;
+}
